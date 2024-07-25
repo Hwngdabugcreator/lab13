@@ -1,0 +1,24 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://img.freepik.com/free-photo/beautiful-mountains-landscape_23-2151151077.jpg?t=st=1721122710~exp=1721126310~hmac=b56d73bc1b39c2ba17a1e22c795dd18c4f692e8e9b330633046992a1de3027b9&w=1060");
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://img.freepik.com/free-photo/beautiful-mountains-landscape_23-2151151080.jpg?t=st=1721123503~exp=1721127103~hmac=64e012912d08bf9f05d79d64a80103a6c678fdd612902f90aabf94febdb5cbfb&w=1060");
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+
+  background-image: url("https://img.freepik.com/free-photo/beautiful-mountains-landscape_23-2151151056.jpg?t=st=1721123520~exp=1721127120~hmac=cbcdc2352a065acc6759b3a21fc3b66a86bafd569b70230701d10d8126984d91&w=1060");
+}
+.bg-img1,
+.bg-img2,
+.bg-img3 {
+  width: 100%;
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
